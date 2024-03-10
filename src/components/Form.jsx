@@ -9,7 +9,7 @@ const Form = () => {
         Añadir paciente y {""}
         <span className="text-indigo-600 font-bold ">Administrar</span>
       </p>
-      <form className="space-y-6 shadow-md" action="#" method="POST">
+      <form className="space-y-6 shadow-md mb-9" action="#" method="POST">
             <div>
               <label htmlFor="pet" className="block text-sm font-medium leading-6 text-gray-700">
                 Nombre Mascota
